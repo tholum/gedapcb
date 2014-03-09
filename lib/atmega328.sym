@@ -28,7 +28,7 @@ pinnumber=27
 T 3400 3050 5 8 0 1 270 6 1
 pinseq=27
 T 3245 2995 9 8 1 1 0 6 1
-pinlabel=PC4
+pinlabel=PC4/SDA
 T 3100 3000 5 8 0 1 270 5 1
 pintype=io
 }
@@ -39,7 +39,7 @@ pinnumber=28
 T 3400 2850 5 8 0 1 270 6 1
 pinseq=28
 T 3245 2795 9 8 1 1 0 6 1
-pinlabel=PC5
+pinlabel=PC5/SCL
 T 3100 2800 5 8 0 1 270 5 1
 pintype=io
 }
@@ -50,7 +50,7 @@ pinnumber=29
 T 3400 2650 5 8 0 1 270 6 1
 pinseq=29
 T 3245 2595 9 8 1 1 0 6 1
-pinlabel=PC6
+pinlabel=PC6-RESET
 T 3100 2600 5 8 0 1 270 5 1
 pintype=io
 }
@@ -61,7 +61,7 @@ pinnumber=30
 T 3400 2250 5 8 0 1 270 6 1
 pinseq=30
 T 3245 2195 9 8 1 1 0 6 1
-pinlabel=PD0
+pinlabel=PD0/RXD
 T 3100 2200 5 8 0 1 270 5 1
 pintype=io
 }
@@ -72,7 +72,7 @@ pinnumber=31
 T 3400 2050 5 8 0 1 270 6 1
 pinseq=31
 T 3245 1995 9 8 1 1 0 6 1
-pinlabel=PD1
+pinlabel=PD1/TXD
 T 3100 2000 5 8 0 1 270 5 1
 pintype=io
 }
@@ -149,7 +149,7 @@ pinnumber=17
 T 3400 4550 5 8 0 1 0 2 1
 pinseq=17
 T 3250 4600 9 8 1 1 0 6 1
-pinlabel=PB5
+pinlabel=PB5/SCK
 T 3250 4600 5 8 0 1 0 8 1
 pintype=io
 }
@@ -303,7 +303,7 @@ pinnumber=15
 T 3400 4950 5 8 0 1 90 8 1
 pinseq=15
 T 3245 4995 9 8 1 1 0 6 1
-pinlabel=PB3
+pinlabel=PB3/OC2A/MOSI
 T 3100 5000 5 8 0 1 90 3 1
 pintype=io
 }
@@ -314,7 +314,7 @@ pinnumber=16
 T 3400 4750 5 8 0 1 90 8 1
 pinseq=16
 T 3245 4795 9 8 1 1 0 6 1
-pinlabel=PB4
+pinlabel=PB4/MISO
 T 3100 4800 5 8 0 1 90 3 1
 pintype=io
 }
